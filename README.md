@@ -1,6 +1,6 @@
 
 # *Stock Price Prediction Project*:
-Machine learning has significant applications in the stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties. We will develop this project into two parts:
+Machine learning has significant applications in the stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties(This project is inspired from one of my previous project:https://github.com/subhamChakraborty23/NSE_Stock_Analysis_and_price_prediction_usin_XGboost). We will develop this project into two parts:
 
 - First, we will predict stock price using the LSTM neural network.
 - Then we will build a dashboard using Plotly dash for stock analysis.
